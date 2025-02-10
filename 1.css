@@ -175,6 +175,26 @@ span.x
     align-items: center;
 }
 
+ @media screen and (max-width: 768px) 
+    {
+h2 {
+font-size: 1.5em;
+}
+div.a, div.b {
+width: 90%;
+margin: auto;
+}
+div>input {
+width: 90%;
+}
+button.btn {
+width: 90%;
+}
+nav {
+padding-top: 5%;
+}
+}
+
 
 span.y
 {
