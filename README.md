@@ -1,6 +1,3 @@
-Here is a README file for your **Facebook Login & Signup Page** repository:
-
----
 
 # Facebook Login & Signup Page Clone
 
